@@ -1,0 +1,46 @@
+body {
+	color:green;
+	padding:20px;
+}
+
+h1 {
+	color:yellow;
+	background: orange;
+}
+
+p {
+	color: blue;
+}
+
+table {
+	color: black;
+	border:5px solid violet;
+}
+
+h3 {
+	color:Orange;
+	background:yellow;
+}
+
+comment1 {
+	color:red;
+}
+
+comment2 {
+	color:orange;
+}
+
+comment3 {
+	color:middle;
+}
+
+comment4 {
+	color:green;
+}
+comment5 {
+	color:blue;
+}
+
+tr {}
+
+td {}
